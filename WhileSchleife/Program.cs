@@ -10,7 +10,7 @@ namespace WhileSchleife
             while (i < 33)
             {
                 Console.WriteLine(i);
-                i++;
+                i=i+5;
             }
             Console.WriteLine(i);
             Console.ReadKey();
