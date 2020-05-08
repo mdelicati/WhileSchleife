@@ -7,7 +7,7 @@ namespace WhileSchleife
         static void Main(string[] args)
         {
             int i = 10;
-            while (i < 50)
+            while (i < 33)
             {
                 Console.WriteLine(i);
                 i++;
